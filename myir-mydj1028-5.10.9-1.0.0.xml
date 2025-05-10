@@ -42,7 +42,7 @@
   <project name="meta-timesys" path="sources/meta-timesys" remote="Timesys" revision="00f81fbdf7fba2a09ff83d14fc3b040e9ae63b42"/>
   <project name="meta-virtualization" path="sources/meta-virtualization" remote="yocto" revision="74e0b8d2acc6b9bbc0345a500a700932d70772f4"/>
   <project name="poky" path="sources/poky" remote="yocto" revision="943ef2fad8428f002850e3655a3312e13d0dcb2c"/>
-  <project name="qoriq/qoriq-components/meta-qoriq" path="sources/meta-qoriq" remote="nxp" revision="5c2417905c9df08d6b0a6433539c5e32622890f0"/>
+  <project name="meta-qoriq" path="sources/meta-qoriq" remote="nxp" revision="5c2417905c9df08d6b0a6433539c5e32622890f0"/>
   <project name="meta-myir-ls" path="sources/meta-myir" remote="MYiR-Dev" revision="6461c4fad37715fb9addd864955edf903aea7f17"/>
   <project name="meta-myir-ls" path="sources/meta-myir-real-time" remote="MYiR-Dev" revision="bc7171d7b052ab439cec9d4e5452a81043365422">
 	<linkfile dest="real-time-edge-setup-env.sh" src="tools/real-time-edge-setup-env.sh"/>
